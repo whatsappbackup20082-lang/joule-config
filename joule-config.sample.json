@@ -1,0 +1,80 @@
+{
+  "latestVersionCode": 5,
+  "latestVersionName": "3.0.0",
+  "apkUrl": "",
+  "notes": "What's new: write a short note here and it shows in the update popup.",
+  "usdaKey": "",
+  "sources": [
+    {
+      "domain": "vegrecipesofindia.com",
+      "name": "Dassana's Veg Recipes",
+      "rank": 1
+    },
+    {
+      "domain": "hebbarskitchen.com",
+      "name": "Hebbar's Kitchen",
+      "rank": 2
+    },
+    {
+      "domain": "nishamadhulika.com",
+      "name": "Nisha Madhulika",
+      "rank": 3
+    },
+    {
+      "domain": "kabitaskitchen.com",
+      "name": "Kabita's Kitchen",
+      "rank": 4
+    },
+    {
+      "domain": "indianhealthyrecipes.com",
+      "name": "Swasthi's Recipes",
+      "rank": 5
+    }
+  ],
+  "foods": [
+    {
+      "name": "Cheetos Puffs (example)",
+      "alt": "cheetos,cheetos puffs",
+      "category": "Packaged",
+      "state": "PREPARED",
+      "kcal": 540,
+      "protein": 6,
+      "carbs": 55,
+      "fat": 33,
+      "fibre": 1,
+      "servingLabel": "1 pack (30 g)",
+      "servingGrams": 30,
+      "brand": "Cheetos"
+    }
+  ],
+  "dishes": [
+    {
+      "name": "Kuttu ki kachori",
+      "alt": "kuttu ki kachori,kuttu kachori,vrat kachori,buckwheat kachori",
+      "category": "Snacks",
+      "region": "Delhi & UP",
+      "emoji": "🥟",
+      "portion": "1 kachori",
+      "items": {
+        "Buckwheat flour (kuttu)": 30,
+        "Potato (boiled)": 40,
+        "Cooking oil": 12,
+        "Salt": 1,
+        "Cumin seeds": 0.5
+      }
+    },
+    {
+      "name": "Banana paratha",
+      "alt": "banana paratha,kela paratha,sweet banana paratha",
+      "category": "Breakfast",
+      "region": "Pan-India",
+      "emoji": "🍌",
+      "portion": "1 paratha",
+      "items": {
+        "Whole wheat atta": 45,
+        "Banana": 60,
+        "Ghee": 5
+      }
+    }
+  ]
+}
